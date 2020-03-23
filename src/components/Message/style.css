@@ -1,0 +1,24 @@
+.message-robot {
+    display: flex;
+}
+
+.message-user {
+    display: flex;
+}
+
+.msg {
+    border: 2px solid #fefbd8;
+    border-radius: 8px;
+    background-color: #fefbd8;
+    padding: 8px;
+    margin-left: 3px;
+    margin-bottom: 10px;
+}
+
+.msg-author {
+    font: 400 16px/16px Roboto;
+}
+
+.msg-text {
+    font: 400 12px/12px Roboto;
+}
